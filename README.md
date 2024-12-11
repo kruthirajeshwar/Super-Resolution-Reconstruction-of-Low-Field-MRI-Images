@@ -13,6 +13,7 @@ The project is structured as follows:
 
 ### **2. `SRGAN_Implementation.ipynb`**
 **Description:** Jupyter notebook implementing the SRGAN model, combining generator and discriminator training with custom loss functions.
+**Requires:** The files custom_loss.py, model_architecture.py, model_metrics.py and prepare_data.py need to be imported for suscessful execution. 
 
 ### **3. `custom_loss.py`**
 **Description:** Defines the custom loss functions used in training the SRGAN model, including perceptual loss, adversarial loss, and content loss.
