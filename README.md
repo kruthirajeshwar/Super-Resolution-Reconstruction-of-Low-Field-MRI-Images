@@ -36,6 +36,9 @@ The project is structured as follows:
 ### **8. `requirements.txt`**
 **Description:** Lists the dependencies required for running the code, ensuring a consistent environment.
 
+### **9. `sample_lr_input.png` and `sample_hr_input.png`**
+**Description:** Used to test the trained model.
+
 ---
 
 ## Contribution
